@@ -1,0 +1,4 @@
+- 👋 Hi, I’m MH_25
+- 👀 I’m interested in simulations using Python and Julia
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: He/Him
